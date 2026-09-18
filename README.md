@@ -11,7 +11,7 @@
 - 🚀 Looking for opportunities to learn, contribute, and grow as a developer.☕
 - 🐙Just trying to make my little ideas work in the big scary world of code.🥹💻
 - 🐣 Open to new challenges, good people, and new places to grow.✨
-- 
+  
 ### ⚡ Tech I work with
 
 **Languages:** Java · JavaScript · SQL · Python  
