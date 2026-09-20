@@ -36,7 +36,7 @@
     <img src="https://cdn.simpleicons.org/leetcode" width="35"/>
   </a>&nbsp;&nbsp;
 
-  <a href="#">
+  <a href="https://khushi-portfolio-ivory-five.vercel.app/">
     <img src="https://img.icons8.com/emoji/48/globe-with-meridians-emoji.png" width="35"/>
   </a>&nbsp;&nbsp;
 
